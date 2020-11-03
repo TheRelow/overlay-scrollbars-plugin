@@ -1,1 +1,6 @@
 @import "_default.css";
+
+.scrollbar-container {
+    height: calc(100vh - 260px);
+    padding-right: 1rem;
+}
