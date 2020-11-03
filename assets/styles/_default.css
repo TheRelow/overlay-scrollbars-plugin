@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 130px 0;
+}
+
+.wrapper {
+    width: 90%;
+    max-width: 1660px;
+    margin: 0 auto;
+}
